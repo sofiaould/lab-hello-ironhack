@@ -1,3 +1,7 @@
+
+// 1er etape - installation package babel, preset babel et app.js
+//
+
 {
     "presets": [
       "env",
